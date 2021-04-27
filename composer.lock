@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5da102ed8930a0f14d742a7cd2a29d9a",
+    "content-hash": "7fe5d421d786860926f2e4d018127d43",
     "packages": [
         {
             "name": "composer/installers",
@@ -934,6 +934,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/enhanced-tooltipglossary/"
+        },
+        {
+            "name": "wpackagist-plugin/templates-patterns-collection",
+            "version": "1.1.7",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/templates-patterns-collection/",
+                "reference": "tags/1.1.7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/templates-patterns-collection.1.1.7.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/templates-patterns-collection/"
         }
     ],
     "packages-dev": [

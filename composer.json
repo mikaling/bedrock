@@ -39,7 +39,8 @@
     "roots/wordpress": "5.7",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/enhanced-tooltipglossary": "^3.7"
+    "wpackagist-plugin/enhanced-tooltipglossary": "^3.7",
+    "wpackagist-plugin/templates-patterns-collection": "^1.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.8",
